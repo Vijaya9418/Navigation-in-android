@@ -18,3 +18,30 @@ So in cases like this navigation component comes into play.
 The navigation component is a collection of libraries, plugins and toolings that simplifies android navigation.
 
 **Benefits:-**
+
+1. Simplified approach for smooth and correct navigation.
+
+2. Handles backstask.
+
+3. Type safe argument passing.
+
+4. Handles transaction animations.
+
+5. Most importantly, it gathers the whole information of this navigation component used in your app and centralize into a visual navigation.
+
+
+**How navigation component works?**
+
+so when we think about navigation component , it works with three major part
+
+1. NavController.
+  
+2. Navigation Graph
+
+3. Navigation Fragment.
+
+
+**Navigation Graph:-**
+
+It is a new resource Type. It is an XML file that contains the information and centralize them into a visual state. This information can be visualized in the new editor available in the android studio 3.3. With the help of which we can find the information by clicking on the activity or fragments available in that graph.
+
