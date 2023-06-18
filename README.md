@@ -45,3 +45,15 @@ so when we think about navigation component , it works with three major part
 
 It is a new resource Type. It is an XML file that contains the information and centralize them into a visual state. This information can be visualized in the new editor available in the android studio 3.3. With the help of which we can find the information by clicking on the activity or fragments available in that graph.
 
+![navigation graph](https://github.com/Vijaya9418/Navigation-in-android/assets/56352158/755b5465-d5f3-4bd2-a871-2e9c621945cb)
+
+
+
+**NavHost Fragment:-**
+
+
+It is a layout of the navigation component. It is a fragment widget that you will add to your layout that we are doing the fragment navigation (swiping like left and right).
+It is basically a window that swaps in and out to dieffrent fragment destination that are included in the nav graph.
+
+<img width="1382" alt="nav host fragment" src="https://github.com/Vijaya9418/Navigation-in-android/assets/56352158/b9545e27-4679-4c4c-8094-5c7d39ade221">
+
