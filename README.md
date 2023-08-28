@@ -81,3 +81,5 @@ In kotlin this works with this like of code which handles the actual navigation 
 <img width="640" alt="Screenshot 2023-06-18 at 6 03 09 PM" src="https://github.com/Vijaya9418/Navigation-in-android/assets/56352158/aeedd18a-1efb-4977-b94d-9b380376a277">
 
 
+
+
